@@ -10,3 +10,4 @@ export default function TarjetaJuego({ juego }) {
     </div>
   );
 }
+// comit 3.2
